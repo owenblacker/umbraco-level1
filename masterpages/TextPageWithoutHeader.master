@@ -1,0 +1,8 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Sub-Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderId="SubMasterContentPlaceHolder" runat="server">
+  <umbraco:Item field="bodyText" runat="server"/>
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="SideNavigationContentPlaceHolder" runat="server">
+</asp:Content>

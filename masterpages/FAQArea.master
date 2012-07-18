@@ -1,0 +1,19 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Sub-Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderId="SubMasterContentPlaceHolder" runat="server">
+  <h4><umbraco:Item field="pageName" runat="server"/></h4>
+  
+  <umbraco:Macro runat="server" language="cshtml">
+    <ul>
+      @foreach (var FAQ in @Model.Children)
+      {
+        <li><a href="@FAQ.Url">@FAQ.Name</a></li>
+      }
+    </ul>
+  </umbraco:Macro>
+  <p><a href="?altTemplate=AddQuestion" class="button1">Ask a question</a></p>
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="SideNavigationContentPlaceHolder" runat="server">
+  
+</asp:Content>

@@ -1,0 +1,8 @@
+﻿@foreach (var item in Model.AncestorOrSelf(1).Descendants("NewsArea")
+          .Last().DescendantsOrSelf("NewsItem").Where("Visible").OrderBy("CreateDate desc"))
+{
+  <li>
+    <a href="@item.Url">@umbraco.library.LongDateWithDayName(item.CreateDate.ToString(), null, false, null, "en")
+    — @item.Name</a>
+  </li>
+}

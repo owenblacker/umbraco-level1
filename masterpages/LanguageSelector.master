@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="MasterContentPlaceHolder" runat="server">
+ <div class="indent1">
+    <div class="wrapper">
+
+      <article class="grid_8 alpha content">
+        
+        <h2><umbraco:Item field="pageName" runat="server"/></h2>
+        <umbraco:Item field="bodyText" runat="server"/>
+        
+        <umbraco:Macro Alias="LanguageSelector" runat="server" />
+        
+        <p class="footer">
+          <umbraco:Item field="#Updated by" textIfEmpty="Updated by" runat="server" />
+          <umbraco:Item field="writerName" runat="server"/> 
+          <umbraco:Item field="#On" textIfEmpty="on" runat="server" />
+          <umbraco:Item field="createDate" formatAsDate="true" runat="server"/>
+        </p>
+      
+      </article>
+    </div>
+  </div>
+</asp:Content>

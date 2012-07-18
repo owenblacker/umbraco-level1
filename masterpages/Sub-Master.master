@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="MasterContentPlaceHolder" runat="server">
+ <div class="indent1">
+    <div class="wrapper">
+
+      <article class="grid_8 alpha content">
+        
+        <asp:ContentPlaceHolder Id="SubMasterContentPlaceHolder" runat="server">
+          <h4><umbraco:Item field="pageName" runat="server"/></h4>
+          <umbraco:Item field="bodyText" runat="server"/>
+        </asp:ContentPlaceHolder>
+
+        <p class="footer">
+          <umbraco:Item field="#Updated by" textIfEmpty="Updated by" runat="server" />
+          <umbraco:Item field="writerName" runat="server"/> 
+          <umbraco:Item field="#On" textIfEmpty="on" runat="server" />
+          <umbraco:Item field="createDate" formatAsDate="true" runat="server"/>
+        </p>
+      </article>
+          
+      <article class="grid_4 omega">
+        <asp:ContentPlaceHolder ID="SideNavigationContentPlaceHolder" runat="server">
+<umbraco:Macro runat="server" language="cshtml">
+          @if (Model.HasValue("sidebarText") || Model.Level == 1 || Model.Parent.Children.Count() > 0)
+          {
+            <h4 class="h4-bg4">@{ var heading = Model._sectionTitle ?? "In this section"; } @heading</h4>
+          }
+  
+          @if (Model.Level == 1 || Model.Parent.Children.Count() > 0)
+          {
+            <ul class="list2">
+                @{
+                    var homeNode = (Model.Level > 2) ? Model.Parent : Model;
+                    if (homeNode.Children.Count() == 0)
+                    {
+                      <li class="current">@Model.Name</li>
+                    }
+                    else
+                    {
+                      foreach (var childNode in homeNode.Children.Where("Visible"))
+                      {
+                        if (childNode.Id == Model.Id)
+                        {
+                          <li class="current">@childNode.Name</li>
+                        }
+                        else
+                        {
+                          <li><a href="@childNode.Url">@childNode.Name</a></li>
+                        }
+                      }
+                    }
+                }
+            </ul>
+          }
+  
+          @if (@Model.HasValue("sidebarText"))
+          {
+            <p class="list2">@Model.SidebarText</p>
+          }
+</umbraco:Macro>
+        </asp:ContentPlaceHolder>
+      </article>
+    </div>
+  </div>
+</asp:Content>

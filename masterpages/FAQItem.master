@@ -1,0 +1,12 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Sub-Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderId="SubMasterContentPlaceHolder" runat="server">
+  <h4><umbraco:Item field="pageName" runat="server"/></h4>
+  <umbraco:Item field="answer" runat="server" />
+  <p><umbraco:Item field="yourName" runat="server" /><br/>
+  <umbraco:Macro runat="server" language="cshtml"><a href="mailto:@Model.YourEmail">@Model.YourEmail</a></umbraco:Macro></p>
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="SideNavigationContentPlaceHolder" runat="server">
+  
+</asp:Content>

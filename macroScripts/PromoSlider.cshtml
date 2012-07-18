@@ -1,0 +1,79 @@
+﻿@using System.IO;
+@using System.Web;
+@using System.Drawing;
+@using umbraco.MacroEngines.Library;
+
+<div class="slider-bg">
+    <div id="slider">
+        @foreach (var item in @Model.PromoRepositories.First().PromoItems.Where("Visible"))
+        {
+            <div>
+                <h1>@item.Name</h1>
+                <h4>@item.SubHeading</h4>
+                @item.Description
+
+                @if (item.HasValue("link"))
+                {
+                    <p><a href="@Library.NodeById(@item.Link).Url">read more</a></p>
+                }
+    
+                @if (@item.Image.Contains("ipad"))
+                {
+                    @* one of the original images that already has an ipad frame as part of the image itself, so just display it *@
+                    <img src="@item.Image" alt="@item.Name" />
+                }
+                else
+                {
+                    @* use ImageGen to resize large images and overlay with an iPad frame in the appropriate orientation *@
+                    @* determine the orientation of the original image, resize it, and overlay the appropriate ipad frame *@
+                    if (ImageWidth(@item.Image) > ImageHeight(@item.Image))
+                    {
+                        <img src="/imagegen.ashx?image=@item.Image&width=415&height=450&pad=true&overlayimage=/images/ipad2-frame-450-landscape.png" alt="@item.Name" />
+                    }
+                    else
+                    {
+                        <img src="/imagegen.ashx?image=@item.Image&width=415&height=450&pad=true&overlayimage=/images/ipad2-frame-450-portrait.png" alt="@item.Name" />
+                    }
+
+                }
+            </div>
+        }
+    </div>
+    <div class="links-bg">
+        <a href="#" id="prev"><img src="images/prev-link.gif" alt="" /></a>
+        <a href="#" id="next"><img src="images/next-link.gif" alt="" /></a>
+    </div>
+</div>
+            
+            
+@* =========================================================== *@
+@functions{
+
+    public int ImageHeight(string filePath)
+    {
+        if (filePath != null && filePath.Length != 0)
+        {
+            string localFile = HttpContext.Current.Server.MapPath(filePath);
+            if (File.Exists(localFile))
+            {
+                return Image.FromFile(localFile).Height;
+            }
+        }
+        return 0;
+    }
+
+
+    public int ImageWidth(string filePath)
+    {
+        if (filePath != null && filePath.Length != 0)
+        {
+            string localFile = HttpContext.Current.Server.MapPath(filePath);
+            if (File.Exists(localFile))
+            {
+                return Image.FromFile(localFile).Width;
+            }
+        }
+        return 0;
+    }
+
+}

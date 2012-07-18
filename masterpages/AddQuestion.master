@@ -1,0 +1,10 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Sub-Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderId="SubMasterContentPlaceHolder" runat="server">
+  <h4><umbraco:Item field="pageName" runat="server"/></h4>
+  <umbraco:Macro FormGuid="19abaa66-146b-4cae-9199-02a204f63cdf" Alias="umbracoContour.RenderForm" runat="server"></umbraco:Macro>
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="SideNavigationContentPlaceHolder" runat="server">
+  
+</asp:Content>

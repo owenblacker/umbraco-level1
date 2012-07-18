@@ -1,0 +1,116 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title><umbraco:Item field="pageName" runat="server" /> - Cutlass Corp</title>
+  <meta charset="utf-8"/>
+  <meta name="description" content="Your description"/>
+  <meta name="keywords" content="Your keywords"/>
+  <meta name="author" content="Your name"/>
+  
+  <link rel="stylesheet" href="/css/style.css" type="text/css" media="all"/>
+ 
+  <script type="text/javascript" src="/scripts/jquery-1.4.2.min.js"></script>
+  <script type="text/javascript" src="/scripts/script.js"></script>
+  <script type="text/javascript" src="/scripts/cufon-yui.js"></script>
+  <script type="text/javascript" src="/scripts/Myriad_Pro_400.font.js"></script>
+  <script type="text/javascript" src="/scripts/cufon-replace.js"></script>
+
+  <!--[if lt IE 9]>
+  <script type="text/javascript" src="/scripts/html5.js"></script>
+  <![endif]-->
+
+  <!--[if lt IE 7]>
+    <script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+<div class="container_12">
+    <div class="wrapper">
+      <div class="grid_12">
+        <header>
+          <div class="extra-wrap">
+            <div class="grid_4 alpha omega">
+              <div class="logo">
+                <a href="/">Cutlass Corp</a>
+              </div>
+            </div>
+            <div class="grid_8 alpha">
+              <div id="search-form">
+                <form action="/en/search.aspx" method="get">
+              <fieldset>
+                <label><input name="search" type="text" value=""/></label><input type="submit" value="search" class="searchbutton"/>
+              </fieldset>
+                </form>
+              </div>
+
+              <nav>
+                <ul>
+                  <umbraco:Macro runat="server" language="cshtml">
+                    @{var homeNode = Model.AncestorOrSelf(1); }
+                    @foreach (var page in homeNode.Children.Where("Visible"))
+                    {
+                      if (page.Id == Model.Id) {
+                      <li class="current"><a href="@page.Url">@page.Name</a></li>
+                      } else {
+                      <li><a href="@page.Url">@page.Name</a></li>
+                      }
+                    }
+                  </umbraco:Macro>
+                </ul>
+              </nav>
+              
+            </div>
+            <div class="clear"></div>
+          </div>
+        </header>
+        <section id="content">    
+          <form runat="server">
+            <asp:ContentPlaceHolder Id="MasterContentPlaceHolder" runat="server"/>
+          </form>
+        </section>
+        <footer>
+          <div class="policy">
+            Umbraco &copy; 2011-12 &bull; <a href="index-6.html">Privacy Policy</a>
+          </div>
+          <div class="socials">
+            <a href="#" class="normaltip" title="Twitter"><img src="/images/twitter.jpg" alt="" /></a>
+            <a href="#" class="normaltip" title="Flickr"><img src="/images/flickr.jpg" alt="" /></a>
+            <a href="#" class="normaltip" title="Facebook"><img src="/images/facebook.jpg" alt="" /></a>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </div>
+  
+<script type="text/javascript">
+  $(document).ready(function(){
+    if ($("#slider").length) {  
+      $('#slider').cycle({ 
+        fx:     'fade', 
+        speed:  'slow', 
+        timeout: 6000, 
+        speed: 2000,
+        next:   '#next', 
+        prev:   '#prev',
+        after: onAfter
+      });
+    }
+    $(function() {
+      $('#prev img, #next img').animate({opacity:'1.0'},{queue:false,duration:0});
+      $('#prev, #next').hover(function(){
+        $(this).find('img').animate({opacity:'0.0'},{queue:false,duration:500});
+      }, function(){
+        $(this).find('img').animate({opacity:'1.0'},{queue:false,duration:500});
+      });  
+    });
+  });
+ </script>
+  <script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>
+
+</asp:Content>

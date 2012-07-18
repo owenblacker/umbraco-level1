@@ -1,0 +1,12 @@
+﻿<ul>
+    @foreach (var item in Model.NewsItems.Where("Visible").OrderBy("CreateDate desc"))
+    {
+    <li>
+      <a href="@item.Url">@item.Name</a>
+      <p>@item.Summary<br/>
+      @umbraco.library.LongDateWithDayName(item.CreateDate.ToString(), null, false, null, "en")
+      @umbraco.library.GetDictionaryItem("By")
+      @item.WriterName</p>
+    </li>
+    }
+</ul>

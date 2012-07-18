@@ -1,0 +1,9 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Sub-Master.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderId="SubMasterContentPlaceHolder" runat="server">
+  <h4><umbraco:Item field="pageName" runat="server"/></h4>
+  <umbraco:Macro source="" searchFields="" previewFields="" searchBoxLocation="" previewType="" resultsPerPage=""
+    previewChars="" showPageRange="1" showOrdinals="1" showScores="1" showStats="1" Alias="XSLTsearch" runat="server"/>
+</asp:Content>
+<asp:Content ContentPlaceHolderId="SideNavigationContentPlaceHolder" runat="server">
+  <!-- Insert "SideNavigationContentPlaceHolder" markup here -->
+</asp:Content>

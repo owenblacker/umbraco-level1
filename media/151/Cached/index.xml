@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>cake.png</originalFileName>
+    <size>294043</size>
+    <dateLastModified>Tue, 03 Jul 2012 10:44:17 GMT</dateLastModified>
+    <width>509</width>
+    <height>316</height>
+    <cachedImage>
+      <fileName>j0i1nyly.png</fileName>
+      <dateCreated>Tue, 03 Jul 2012 10:44:57 GMT</dateCreated>
+      <dateLastAccessed>Tue, 03 Jul 2012 10:45:57 GMT</dateLastAccessed>
+      <imageFormat>png</imageFormat>
+      <rotate>0</rotate>
+      <flip />
+      <colorMode />
+      <crop />
+      <width>415</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>True</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+    <cachedImage>
+      <fileName>g51ahivx.png</fileName>
+      <dateCreated>Tue, 03 Jul 2012 10:46:51 GMT</dateCreated>
+      <dateLastAccessed>Wed, 04 Jul 2012 10:03:54 GMT</dateLastAccessed>
+      <imageFormat>png</imageFormat>
+      <rotate>0</rotate>
+      <flip />
+      <colorMode />
+      <crop />
+      <width>415</width>
+      <height>450</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>True</pad>
+      <align>left</align>
+      <valign>middle</valign>
+      <overlayImages>
+        <overlayImage>
+          <filename>ipad2-frame-450-landscape.png</filename>
+          <size>15964</size>
+          <dateLastModified>Fri, 08 Apr 2011 10:53:22 GMT</dateLastModified>
+        </overlayImage>
+      </overlayImages>
+    </cachedImage>
+  </image>
+</imageIndex>

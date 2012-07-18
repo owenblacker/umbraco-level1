@@ -1,0 +1,13 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Sub-Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderId="SubMasterContentPlaceHolder" runat="server">
+  <h4><umbraco:Item field="pageName" runat="server"/></h4>
+  <p><strong><umbraco:Item field="summary" runat="server"/></strong></p> 
+  <umbraco:Item field="bodyText" runat="server"/>
+</asp:Content>
+<asp:Content ContentPlaceHolderId="SideNavigationContentPlaceHolder" runat="server">
+  <h4 class="h4-bg4"><umbraco:Item field="sectionTitle" textIfEmpty="News" recursive="true" runat="server" /></h4>
+  <ul class="list2">
+    <umbraco:Macro Alias="ShortListNewsItems" runat="server"/>
+  </ul>
+</asp:Content>
