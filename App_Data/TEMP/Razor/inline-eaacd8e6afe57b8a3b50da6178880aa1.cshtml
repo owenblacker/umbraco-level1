@@ -1,0 +1,14 @@
+﻿<ul class="list2">
+            @{ var homeNode = (Model.Level > 1) ? Model.Parent : Model; }
+            @foreach (var page in homeNode.Children.Where("Visible"))
+            {
+              if (page.Id == Model.Id)
+              {
+                <li class="current"><a href="@page.Url">@page.Name</a></li>
+              }
+              else
+              {
+                <li><a href="@page.Url">@page.Name</a></li>
+              }
+            }
+          </ul>

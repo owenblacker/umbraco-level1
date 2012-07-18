@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_19ff86a0d8cd4ddabafa47b1a49757b5.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnl1aS5qczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_bb34e600379b42608576882f1061d851.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvL2Nzcy91bWJyYWNvR3VpLmNzczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_59da0a245fa548389b98d53e1900e1a6.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\treeIcons.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\menuIcons.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco\css\umbracoGui.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuYmEtYmJxLm1pbi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSGlzdG9yeU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9qcXVlcnkuc2ltcGxlbW9kYWwuMS40LjEuY3VzdG9tLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjby9TZWFyY2gvcXVpY2tTZWFyY2guanM7L3VtYnJhY28vanMvZ3VpRnVuY3Rpb25zLmpzOy91bWJyYWNvL2pzL1VtYnJhY29TcGVlY2hCdWJibGVCYWNrZW5kLmpzOy91bWJyYWNvL2pzL2xhbmd1YWdlLmFzcHg7L3VtYnJhY29fY2xpZW50L3VpL2pRdWVyeVdyZXNpemUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkuYXV0b2NvbXBsZXRlLmpzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_4012f03b7929482e9dfe122edcaf771e.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.ba-bbq.min.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\HistoryManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\jquery.simplemodal.1.4.1.custom.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\jquery.tree.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco\Search\quickSearch.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco\js\guiFunctions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco\js\UmbracoSpeechBubbleBackend.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jQueryWresize.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\JQuery\jquery.autocomplete.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_8c79dfd1d5494e90bd7cbc566f04f132.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9wYXNzd29yZFN0cmVuZ3RoL3Bhc3N3b3Jkc3RyZW5ndGguanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_24497568963748798af1d12c1bcfc0f7.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\passwordStrength\passwordstrength.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3BhbmVsL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_6f8d9c34e0c145ac891dd026712f41a4.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_8fa98dc275674839b7114cae9552c3b4.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_8abd68a16b7440f6a99562a49eaf16e8.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9HZW5lcmljUHJvcGVydHkvZ2VuZXJpY3Byb3BlcnR5LmNzczsvdW1icmFjb19jbGllbnQvdWkvZGQuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS90cmVlSWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_ad6532e0ea23479a9da71a5a024b7c28.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\GenericProperty\genericproperty.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\dd.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\treeIcons.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5kZC5qczsvdW1icmFjby9qcy9VbWJyYWNvQ2FzaW5nUnVsZXMuYXNweDsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9HZW5lcmljUHJvcGVydHkvZ2VuZXJpY3Byb3BlcnR5LmpzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_45c1d3b1baa44428ab10311d6ec317b6.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.dd.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\GenericProperty\genericproperty.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_f0eed75872704773a6a1a20f0f6963bc.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\menuicon\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci91bWJEYXRlVGltZVBpY2tlci5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdGltZXBpY2tlci5qczsvdW1icmFjb19jbGllbnQvTWFza2VkSW5wdXQvanF1ZXJ5Lm1hc2tlZGlucHV0LTEuMy5taW4uanM7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_8a8a48e61be1499a8e870ccd6f09b77e.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco\js\umbracoCheckKeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\MaskedInput\jquery.maskedinput-1.3.min.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc3BsaXRidXR0b24vc3BsaXRidXR0b24uY3NzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9zdHlsZXMuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_e96c3aec80c24c62a6446d1bad613ca1.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\menuicon\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\splitbutton\splitbutton.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeArea\styles.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9zcGxpdGJ1dHRvbi9qcXVlcnkuc3BsaXRidXR0b24uanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuaG90a2V5cy5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnktZmllbGRzZWxlY3Rpb24uanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvQ29kZU1pcnJvci9qcy9jb2RlbWlycm9yLmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9VbWJyYWNvRWRpdG9yLmpzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_5a7f7408226a45f395e1529bb73ae7e9.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\splitbutton\jquery.splitbutton.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery-fieldselection.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeMirror\js\codemirror.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeArea\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeArea\UmbracoEditor.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_9fa887deec7f4f1597992fb77ddd0882.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY28vanMvdW1icmFjb0NoZWNrS2V5cy5qczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_9278ec1bc7664ce8800f87322f28009d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco\js\umbracoCheckKeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvc3R5bGVzLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_1264ffc6994b425cb8af31649ed41d7a.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\menuicon\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeArea\styles.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LWZpZWxkc2VsZWN0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3BhbmVsL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvY29kZW1pcnJvci5qczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvVW1icmFjb0VkaXRvci5qczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_df395004173f4149a410a8c4e8509545.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery-fieldselection.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeMirror\js\codemirror.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeArea\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeArea\UmbracoEditor.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_5cbcd88405864b1193d4e95feb095652.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_199d0200c72b426a9db078c8ff7fc758.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0plZGl0YWJsZS9qcXVlcnkuamVkaXRhYmxlLmpzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_839812b3b6e44e63a00e7d2680af92d5.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Jeditable\jquery.jeditable.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_2f8b1bf3839d4b77b5c576c3ad59bc70.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_649c05e2cc48402f8fccf2a606663dc7.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy91bWJyYWNvQ2hlY2tLZXlzLmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci90aW1lcGlja2VyLmpzOy91bWJyYWNvX2NsaWVudC9NYXNrZWRJbnB1dC9qcXVlcnkubWFza2VkaW5wdXQtMS4zLm1pbi5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_df9e2cba47a24021addb93f5ad81338a.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco\js\umbracoCheckKeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\MaskedInput\jquery.maskedinput-1.3.min.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_70ab25515ff44da5bb383026ec03aba2.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\menuicon\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\DateTimePicker\datetimepicker.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_2b17bc15547c40d28d193def2b78d77c.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_a94255c57b36430cb27f687d5942cf0c.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_16b387b28b3e444fbf6465f1e49087d7.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_61151c36ef6f42a086dd2000611f2079.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_2ecc49181ce74b8c840315b5cf4537f6.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_d8021cbdefb344268fe3d4062d365ff2.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\treeIcons.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\menuIcons.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL05vZGVEZWZpbml0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNoZWNrYm94LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29Db250ZXh0LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNvbnRleHRtZW51LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29UcmVlLmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_f9e1af439cc94ae28dea12e48370280d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\jquery.tree.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco\js\umbracoCheckKeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L3RhYmxlc29ydGluZy90YWJsZURyYWdBbmREcm9wLmpzOy91bWJyYWNvX2NsaWVudC90YWJsZXNvcnRpbmcvdGFibGVGaWx0ZXIuanM7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_610ffff634154a148cf4a3c0a26fe145.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tablesorting\tableDragAndDrop.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tablesorting\tableFilter.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9VbWJyYWNvRWRpdG9yLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3BhbmVsL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnktZmllbGRzZWxlY3Rpb24uanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvY29kZW1pcnJvci5qczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvamF2YXNjcmlwdC5qczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_4842615c317c45afbef832bd91e7ac66.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeArea\UmbracoEditor.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery-fieldselection.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeMirror\js\codemirror.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeArea\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_67eec60fd6cb4687a83e14d09ef0682a.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_1bc76ee621924d968af16a50cf92bff9.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\treeIcons.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\menuIcons.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNoZWNrYm94LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNvbnRleHRtZW51LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL05vZGVEZWZpbml0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29Db250ZXh0LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29UcmVlLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_7d0a922756a3487ba8540396a363510f.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\jquery.tree.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_ccc07b4c48d247d8ba5ff7fb44524a94.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tabview\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\menuicon\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\DateTimePicker\datetimepicker.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_f712574e4d71451495470999fad444d5.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc3BsaXRidXR0b24vc3BsaXRidXR0b24uY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOw==" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_52494131c11949aeac02ab94134d6d90.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\menuicon\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\splitbutton\splitbutton.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9zcGxpdGJ1dHRvbi9qcXVlcnkuc3BsaXRidXR0b24uanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuaG90a2V5cy5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS1maWVsZHNlbGVjdGlvbi5qczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvVW1icmFjb0VkaXRvci5qczs=" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_9398e16009f645cdb1aa2706981f2c2d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\splitbutton\jquery.splitbutton.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery.hotkeys.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\modal.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\panel\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\Application\jQuery\jquery-fieldselection.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeArea\javascript.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\CodeArea\UmbracoEditor.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_ff953b88b54145ff86adb80b3137a5ce.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdGlueV9tY2VfcG9wdXAuanM7L3VtYnJhY29fY2xpZW50L3RpbnltY2UzL3V0aWxzL21jdGFicy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvZm9ybV91dGlscy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvdmFsaWRhdGUuanM7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_d28533d8969145f6b977b90dd4716e2e.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\jquery.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tinymce3\tiny_mce_popup.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tinymce3\utils\mctabs.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tinymce3\utils\form_utils.js" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\tinymce3\utils\validate.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\App_Data\TEMP\ClientDependency\1_48344d6e556b4af49b98844881a1c8d4.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\modal\style.css" />
+      <file name="C:\Users\owen.blacker\Documents\My Web Sites\Umbraco CMS training L1\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+</map>

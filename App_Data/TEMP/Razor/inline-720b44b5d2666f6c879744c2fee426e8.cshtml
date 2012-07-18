@@ -1,0 +1,9 @@
+﻿@{var homeNode = Model.AncestorOrSelf(1); }
+                    @foreach (var page in homeNode.Children.Where("Visible"))
+                    {
+                      if (page.Id == Model.Id) {
+                      <li class="current"><a href="@page.Url">@page.Name</a></li>
+                      } else {
+                      <li><a href="@page.Url">@page.Name</a></li>
+                      }
+                    }

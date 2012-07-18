@@ -1,0 +1,6 @@
+﻿<ul>
+      @foreach (var FAQ in @Model.Children)
+      {
+        <li><a href="@FAQ.Url">@FAQ.Name</a></li>
+      }
+    </ul>

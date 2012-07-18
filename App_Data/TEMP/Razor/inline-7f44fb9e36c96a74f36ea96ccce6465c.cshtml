@@ -1,0 +1,7 @@
+﻿<ul class="list2">
+            @{ var homeNode = Model.AncestorOrSelf(1); }
+            @foreach (var page in homeNode.Children.Where("Visible"))
+            {
+              <li><a href="@page.Url">@page.Name</a></li>
+            }
+          </ul>
